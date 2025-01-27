@@ -7,3 +7,6 @@
     }
 
 ## primeira etapa, definir variaveis e atributos globais, tamanho de fonte, peso e caracteristicas de links e listas
+
+
+## classes utilitarias, definir espaçamentos, margens, igual um bootstrap
