@@ -10,3 +10,7 @@
 
 
 ## classes utilitarias, definir espaçamentos, margens, igual um bootstrap
+    * Criar estilos de componentes(buttons) com as classes utilitarias
+
+ !note! -> na criação do estilo dos botoes, foi utilizada uma tecnica/estrategia para aplicar o efeito linear gradient no nome e borda.
+ 
