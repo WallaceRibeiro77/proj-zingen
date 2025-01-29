@@ -13,4 +13,10 @@
     * Criar estilos de componentes(buttons) com as classes utilitarias
 
  !note! -> na criação do estilo dos botoes, foi utilizada uma tecnica/estrategia para aplicar o efeito linear gradient no nome e borda.
- 
+
+ criar o background e colocar o gradient nele, em seguida colocar o vendor prefix webkit
+
+  -webkit-background-clip:text;
+  background-clip:text;
+
+  apos isso deixar a cor transparent
